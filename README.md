@@ -5,6 +5,9 @@ This is a simple Node.js application using Express and Nodemailer to send emails
 ## MailDev Screenshort
 ![mailDev](./maildev.png)
 
+## Email-sending form
+![form](./email-sending-form.png)
+
 ## Installation
 
 1. Clone the repository:
